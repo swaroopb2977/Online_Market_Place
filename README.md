@@ -26,7 +26,7 @@ Security measures include protection against common web vulnerabilities like CSR
 # Deployment and Scalability:
 The application can be deployed on various platforms using Django deployment practices, ensuring scalability and performance optimization for increased user traffic.
 
-# In summary, the Online Marketplace is a feature-rich web application developed with Django and Tailwind CSS, focusing on functionality, security, and a user-friendly experience for both buyers and sellers in an online commerce environment.
+### In summary, the Online Marketplace is a feature-rich web application developed with Django and Tailwind CSS, focusing on functionality, security, and a user-friendly experience for both buyers and sellers in an online commerce environment.
 
 
 # Here is a sample of application 
